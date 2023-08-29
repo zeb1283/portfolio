@@ -1,113 +1,90 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Zeb Lakey",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "email": "lakeyzeb@gmail.com",
+    "phone": "808-445-5193",
+    "website": "https://zeb1283.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "zeb1283", "url": "http://github.com/zeb1283" },
+      { "network": "linkedin", "username": "Zeb Lakey", "url": "http://www.linkedin.com/in/zeb-lakey-854777206" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Natural Language Processing" },
+    { "name": "Machine Learning" },
+    { "name": "Neural Networks/Deep Learning" },
+    { "name": "APIs" },
+    { "name": "LLMs" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Java", "C++", "C", "JavaScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows 7-11", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
+      "startDate": "2021-08-23",
+      "endDate": "2025-05-15",
+      "courses": [ "Software Engineering", "Algorithms", "Program Structure", "Machine Learning Methods", "Intro to CS I/II", "Discrete Mathematics I/II"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Center for Language and Technology",
+      "position": "Research Assistant/Prompt Designer",
+      "website": "https://clt.manoa.hawaii.edu/",
+      "startDate": "2023-07-10",
+      "endDate": "2023-08-25",
+      "summary": "Completed a project involving Natural Language Processing and LLMs",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Created a full Python script that generated language-learning C-tests",
+        "Designed a pipeline for a user to be able to retrieve a test with a click of a button"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "UH School of Architecture",
+      "position": "Netlab Assistant",
+      "website": "http://www.arch.hawaii.edu/",
+      "startDate": "2015-01-11",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Performed a wide variety of tasks for the UHSOA",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Update and maintain the school's website",
+        "Assist students and faculty with printing, computer issues, and classroom setup"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Achievement Scholarship",
+      "date": "2021-Present",
+      "awarder": "Board of Regents",
+      "summary": "4-year merit scholarship awarded to 96 Hawai'i high school students for high achievements in academics, sports, and extracurriculars."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "CNS Native Hawaiian Scholarship",
+      "date": "2022-Present",
+      "awarder": "College of Natural Sciences",
+      "summary": "Merit scholarship awarded to high achieving students of Native Hawaiian descent."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii - Manoa",
+      "summary": "Distinction given to students at or above a 3.5 gpa on a semester-by-semester basis."
     }
   ],
   "references": [
