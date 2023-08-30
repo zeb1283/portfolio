@@ -8,7 +8,7 @@ published: true
 labels:
   - JavaScript, Opinion
 ---
-!img[](img/js.png)
+<img class="img-fluid" src="img/js.png">
 
 JavaScript is like the friend you have who is always down for anything. As a programming language, it works flexibly as needed, letting you bend it to your will in ways other languages resist.
 
