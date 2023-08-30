@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: https://drive.google.com/file/d/1Rpi4norAWID60bljr_uLN8ESXFK0fQYU/view?usp=drive_link
 title: "Model in the Mirror"
 date: 2023
 published: true
@@ -22,4 +22,4 @@ The purpose of the project was to use OpenAI API to generate passages from a pie
 Below is a link to the repository where all files are stored. The most relevant files include newgenerator or pdfscraper, which are the passage generators, any one of the beginner database files, and any one of the spacy files that convert the base passages to C-tests.
 <a href="https://github.com/llcit/model-mirror">llcit/model-mirror</a>
 
-Additionally, <a href=https://hushed-spiny-scaffold.glitch.me/>this</a> is a sample website that was used for language experts to test the C-tests:
+Additionally, <a href="https://hushed-spiny-scaffold.glitch.me"/>this</a> is a sample website that was used for language experts to test the C-tests:
