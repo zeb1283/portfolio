@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://drive.google.com/file/d/1Rpi4norAWID60bljr_uLN8ESXFK0fQYU/view?usp=drive_link
+image: img/Screenshot 2023-08-29 at 2.31.46 PM.png
 title: "Model in the Mirror"
 date: 2023
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A python script that generates C-tests for language learning purposes."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="img/Screenshot 2023-08-29 at 2.31.46 PM.png">
 
 Model in the Mirror was a research project I completed with the Center for Language and Technology at UH Manoa.
 
