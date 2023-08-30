@@ -20,6 +20,6 @@ Model in the Mirror was a research project I completed with the Center for Langu
 The purpose of the project was to use OpenAI API to generate passages from a piece of source material, and convert it into C-tests, which remove the second half of every second word.
 
 Below is a link to the repository where all files are stored. The most relevant files include newgenerator or pdfscraper, which are the passage generators, any one of the beginner database files, and any one of the spacy files that convert the base passages to C-tests.
-<a href="https://github.com/llcit/model-mirror">llcit/model-mirror</a>
+[Model in the Mirror](https://github.com/llcit/model-mirror "llcit/model-mirror")
 
-Additionally, <a href="https://hushed-spiny-scaffold.glitch.me"/>this</a> is a sample website that was used for language experts to test the C-tests:
+Additionally, [example](https://hushed-spiny-scaffold.glitch.me "this") is a sample website that was used for language experts to test the C-tests:
