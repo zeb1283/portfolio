@@ -13,7 +13,7 @@ labels:
 summary: "A python script that generates C-tests for language learning purposes."
 ---
 
-<img class="img-fluid" src="img/Screenshot 2023-08-29 at 2.31.46 PM.png">
+<img class="img-fluid" src="../img/Screenshot 2023-08-29 at 2.31.46 PM.png">
 
 Model in the Mirror was a research project I completed with the Center for Language and Technology at UH Manoa. The purpose was to develop a script that creates "C-tests," which are language learning passages that the Center will use for an app that they are developing.
 
