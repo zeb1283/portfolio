@@ -7,7 +7,7 @@ published: true
 labels:
   - Leadership
   - Teambuilding
-  - 
+  - Competition
 summary: "Played and coached for the best collegiate eSports program in the country."
 ---
 
