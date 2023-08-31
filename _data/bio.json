@@ -17,7 +17,7 @@
     { "name": "Natural Language Processing" },
     { "name": "Machine Learning" },
     { "name": "Neural Networks/Deep Learning" },
-    { "name": "APIs" },
+    { "name": "Software Development" },
     { "name": "LLMs" }
   ],
   "skills": [
@@ -55,11 +55,23 @@
       ]
     },
     {
+      "company": "Center for Langauge and Technology",
+      "position": "Tech Assistant",
+      "website": "https://clt.manoa.hawaii.edu/",
+      "startDate": "2023-08-28",
+      "endDate": "Present",
+      "summary": "Performed a wide variety of tasks for the UHSOA",
+      "highlights": [
+        "Update and maintain the school's website",
+        "Assist students and faculty with printing, computer issues, and classroom setup"
+      ]
+    },
+    {
       "company": "UH School of Architecture",
       "position": "Netlab Assistant",
       "website": "http://www.arch.hawaii.edu/",
-      "startDate": "2015-01-11",
-      "endDate": "Present",
+      "startDate": "2021-01-11",
+      "endDate": "2023-08-31",
       "summary": "Performed a wide variety of tasks for the UHSOA",
       "highlights": [
         "Update and maintain the school's website",
