@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/uhe.jpg
+image: img/uhe.jpg
 title: "UHEsports Coach/Player"
 date: 2021-2023
 published: true
