@@ -18,4 +18,5 @@ The next semester, I was pretty burnt out and decided to swap over to coaching a
 
 The next year, I fulfilled multiple different roles for the program. Although I played the game much less, I was still close with many of the members of the team. I just decided to help where I could. Overall, the eSports program helped me continue what I started in high school (I founded the club there that is actually still going). I further developed my leadership skills and learned how to be on a team with people I would eventually grow to be incredibly close with.
 
-<img class="img-fluid" src="../img/uhe.jpg">
+<img class="img-fluid" src="../img/IMG_1581.jpeg" width="300" 
+     height="500">
