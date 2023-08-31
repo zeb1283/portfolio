@@ -1,6 +1,6 @@
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: /img/uhe.jpg
 title: "UHEsports Coach/Player"
 date: 2021-2023
 published: true
