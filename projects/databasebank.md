@@ -13,6 +13,7 @@ labels:
   - VIM
   - g++
 summary: "A program that emulates a bank database using C and C++."
+projecturl: https://github.com/zeb1283/bankdatabase
 ---
 
 ## Overview
