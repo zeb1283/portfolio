@@ -12,14 +12,14 @@ labels:
   - Unix
   - VIM
   - g++
-summary: "A small program that emulates a bank database using C and C++."
+summary: "A program that emulates a bank database using C and C++."
 ---
 
 ## Overview
 This project was completed in ICS 212, Program Structure. The user can add, find, remove, or delete records from the "database" that is stored on a .txt file. Both programs use a linked list to hold the records, which consist of an Account Number, Name, and Address. This is all inputted by the user via the terminal. All project files were developed on a Unix server using the VIM text editor, and compiled using g++/gcc terminal commands and flags. These instructions are stored within a Makefile. In the C++ version, there is one for a "release" version and one for a "debug" version, which prints the parameters and function name whenever something within the program is called.
 
 ## Lessons
-When programming both projects, I became painfully aware of how cautious you have to be when programming in certain languages. With the C project especially, it was important to clear the input buffer so I wouldn't get errors with scanf, and make sure that everything worked together perfectly to avoid the terrifying segfault. C++ was a better experience, as I was mostly able to adapt a lot of the code over, but getting a handle on classes, hierarchy, and passing by reference took a little bit of extra time.
+When programming both projects, I became painfully aware of how cautious you have to be when programming in certain languages. With the C project especially, it was important to clear the input buffer so I wouldn't get errors with scanf(), and make sure that everything worked together perfectly to avoid the terrifying segfault. C++ was a better experience, as I was mostly able to adapt a lot of the code over, but getting a handle on classes, hierarchy, and passing by reference took a little bit of extra time.
 
 ## Code Snippet
 Below is the class definition for the linked list that makes up the database in C++.
