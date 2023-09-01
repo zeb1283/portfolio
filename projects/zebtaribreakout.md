@@ -9,7 +9,6 @@ labels:
   - Python
   - pygame
 summary: "In-progress clone of Atari Breakout"
-projecturl: https://github.com/zeb1283/breakoutclone
 ---
 
 ## Overview
