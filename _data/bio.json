@@ -6,7 +6,7 @@
     "email": "lakeyzeb@gmail.com",
     "phone": "808-445-5193",
     "website": "https://zeb1283.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am a third-year student studying for a B.S in Computer Science from the Department of Information and Computer Sciences at the University of Hawai'i at Manoa. I am projected to graduate in Spring 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zeb1283", "url": "http://github.com/zeb1283" },
@@ -74,7 +74,7 @@
       "endDate": "2023-08-31",
       "summary": "Completed a variety of tasks for the SOA Netlab",
       "highlights": [
-        "Updated and maintain the school's website",
+        "Updated and maintained the school's website",
         "Assisted faculty, students, and staff with technical issues involving computers, projectors, lecterns, printers, cameras, and other technical equipment."
       ]
     }
@@ -101,7 +101,7 @@
   ],
   "references": [
     {
-      "name": "William Chapman, Interim Dean (Contact available upon request)"
+      "name": "William Chapman, Interim Dean (Contact available upon request)",
       "name": "Richard Medina, Assistant Faculty Specialist in Human-Computer Interaction (Contact available upon request)"
     }
   ]
