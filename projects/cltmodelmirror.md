@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/nlp-natural-language-processing.png
-title: "CLT UROP- Model in the Mirror"
+title: "CLT UROP - Model in the Mirror"
 date: 2023
 published: true
 labels:
