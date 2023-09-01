@@ -21,7 +21,7 @@ Speaking of the platform, I'm handling movement using Vector2 pygame objects, wh
 I don't want to deal with object collision right now :P
 
 ## Screencap of Current Gamestate
-<img type="img-fluid" src="img/Screenshot 2023-08-31 at 7.26.58 PM.png">
+<img class="img-fluid" src="img/Screenshot 2023-08-31 at 7.26.58 PM.png">
 
 ## Repository Link
 [This](https://github.com/zeb1283/breakoutclone) is the repository for the clone. Eventually I'll have some fun little audio files in there (possibly of myself making boing and bang noises).
