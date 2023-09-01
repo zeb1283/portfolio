@@ -10,7 +10,7 @@ labels:
   - OpenAI
   - spaCy
   - GitHub
-summary: "A python project that generates C-tests for language learning purposes."
+summary: "A UROP-funded python project that generates C-tests for language learning purposes."
 ---
 ## Overview
 Model in the Mirror was a research project I completed with the Center for Language and Technology at UH Manoa under a UROP research grant. The purpose was to develop a script that creates "C-tests," which are language learning passages that the Center will use for an app that they are developing. I had an advisor, but 100% of the code developed was written by me.
