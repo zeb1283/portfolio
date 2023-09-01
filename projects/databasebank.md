@@ -4,7 +4,7 @@ type: project
 image: img/bank-database-3d-render-icon-png.png
 title: "Bank Database Emulation"
 date: 2023
-order: 2
+order: 3
 published: true
 labels:
   - C++
