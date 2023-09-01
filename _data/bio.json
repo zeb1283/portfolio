@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows 7-11", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows 7-11", "Git/GitHub", "Windows Server 2016", "MS Office", "Wordpress" ]
     }
   ],
   "education": [
@@ -48,7 +48,7 @@
       "website": "https://clt.manoa.hawaii.edu/",
       "startDate": "2023-07-10",
       "endDate": "2023-08-25",
-      "summary": "Completed a project involving Natural Language Processing and LLMs",
+      "summary": "Worked on a project involving Natural Language Processing and LLMs",
       "highlights": [
         "Created a full Python script that generated language-learning C-tests",
         "Designed a pipeline for a user to be able to retrieve a test with a click of a button"
@@ -60,10 +60,10 @@
       "website": "https://clt.manoa.hawaii.edu/",
       "startDate": "2023-08-28",
       "endDate": "Present",
-      "summary": "Performed a wide variety of tasks for the UHSOA",
+      "summary": "Continued the project and worked on assorted programming/IT tasks for the CLT",
       "highlights": [
-        "Update and maintain the school's website",
-        "Assist students and faculty with printing, computer issues, and classroom setup"
+        "Assisted faculty and staff with assorted projects around the CLT",
+        "Monitored computer labs and helped users with technical issues"
       ]
     },
     {
@@ -72,10 +72,10 @@
       "website": "http://www.arch.hawaii.edu/",
       "startDate": "2021-01-11",
       "endDate": "2023-08-31",
-      "summary": "Performed a wide variety of tasks for the UHSOA",
+      "summary": "Completed a variety of tasks for the SOA Netlab",
       "highlights": [
-        "Update and maintain the school's website",
-        "Assist students and faculty with printing, computer issues, and classroom setup"
+        "Updated and maintain the school's website",
+        "Assisted faculty, students, and staff with technical issues involving computers, projectors, lecterns, printers, cameras, and other technical equipment."
       ]
     }
   ],
@@ -101,7 +101,8 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "William Chapman, Interim Dean (Contact available upon request)"
+      "name": "Richard Medina, Assistant Faculty Specialist in Human-Computer Interaction (Contact available upon request)"
     }
   ]
 }
