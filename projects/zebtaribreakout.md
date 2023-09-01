@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/png-transparent-atari-2600-breakout-logo-video-game-volleyball-miscellaneous-text-logo.png
+image: img/atari-logo-1.png
 title: "Zebtari Breakout"
 date: 2023
 published: true
