@@ -4,6 +4,7 @@ type: project
 image: img/nlp-natural-language-processing.png
 title: "CLT Research - Model in the Mirror"
 date: 2023
+order: 1
 published: true
 labels:
   - Python
