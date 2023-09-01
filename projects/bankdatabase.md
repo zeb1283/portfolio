@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Bank Database Emulation in C++"
+title: "Database Emulation (Bank)"
 date: 2023
 published: true
 labels:
