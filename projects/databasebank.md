@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/bank-database-3d-render-icon-png.png
 title: "Bank Database Emulation"
 date: 2023
 published: true
