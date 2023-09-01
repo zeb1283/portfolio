@@ -11,6 +11,7 @@ labels:
   - spaCy
   - GitHub
 summary: "A UROP-funded python project that generates C-tests for language learning purposes."
+projecturl: https://github.com/llcit/model-mirror
 ---
 ## Overview
 Model in the Mirror was a research project I completed with the Center for Language and Technology at UH Manoa under a Undergraduate Research Opportunity Program (UROP) grant. The purpose was to develop a script that creates "C-tests," which are language learning passages that the Center will use for an app that they are developing. I had an advisor to assist me with project direction, but all code was written by me.
