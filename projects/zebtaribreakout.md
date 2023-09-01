@@ -4,7 +4,7 @@ type: project
 image: img/atari-logo-1.png
 title: "Zebtari Breakout"
 date: 2023
-order: 3
+order: 2
 published: true
 labels:
   - Python
