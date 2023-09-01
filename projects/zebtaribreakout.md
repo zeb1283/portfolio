@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/atari-logo-1.png
 title: "Zebtari Breakout"
-date: 2023
+date: 2022
 published: true
 labels:
   - Python
