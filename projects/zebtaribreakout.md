@@ -4,7 +4,7 @@ type: project
 image: img/png-transparent-atari-2600-breakout-logo-video-game-volleyball-miscellaneous-text-logo.png
 title: "Zebtari Breakout"
 date: 2023-07-10
-published: true
+published: false
 labels:
   - Python
   - pygame
