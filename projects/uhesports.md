@@ -4,7 +4,7 @@ type: project
 image: img/uhe.jpg
 title: "UHEsports Coach/Player"
 date: 2021-2023
-order: 4
+order: 1
 published: true
 labels:
   - Leadership
