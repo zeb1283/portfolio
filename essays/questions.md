@@ -6,26 +6,19 @@ title: "Avoiding the heat when asking questions"
 date: 2023-08-30
 published: true
 labels:
-  - JavaScript, Opinion
+  - Questions, Opinion
 ---
 
 ## Introduction
-JavaScript is like the friend you have who is always down for anything. As a programming language, it works flexibly as needed, letting you bend it to your will in ways other languages resist.
+When asking a question in real life, it is generally fine to ask questions the so-called "not smart way." This would be the way that doesn't follow the guidelines that Eric Raymond sets in his guidelines for asking questions the smart way. Rather than start with the smart way, I think that it would be much more interesting and fun to discuss the "bad" way first.
 
-## Structure
-To me, JavaScript feels like a functional, but imperfect fusion between Python's looseness and Java's structure. It embraces dynamic typing like Python, so you don't have to explicitly declare data types. But it retains syntax like semicolons and curly braces that provide the structure Java relies on. I've never loved Python's lack of syntax, so getting that structure back feels refreshing. However, I do think that there is some comfort to the rigidity that languages like C++ and Java enforce.
+## The Ugly
+[This is the not so smart way to ask a question.](https://stackoverflow.com/questions/77064929/trouble-with-importing-python-modules-in-vscode) For those who do not want to visit the other page, it says, "Trouble with importing python modules in vscode" in the title. No description of any specific errors, not even formatted as a question! Well, whatever, let's just move on to the content of the forum post. A general summary is that the developer is attempting to download a module from Git, and is getting a ModuleNotFound error when attempting to use it. When they use pip.list, it shows the module is available.
 
-## Data Structures
-JavaScript also lets you modify arrays on the fly using methods like push and unshift. Coming from Java and C, where arrays feel rigidly static, this freedom is a godsend for simple tasks. No more defining a new array just to add a singular item in what should be a 4-line task! However, I do think that the lack of a standard, immutable array is a little confusing.
+## Why it's Ugly
+Firstly, I know that this is a not-so-smart question because I have had this exact issue before. I looked up the error and found that the solution is as simple as restarting the IDE and making sure that the module is actually stored within the right Python interpreter. So, this question violates Raymond's principles simply by being asked. The answer is out there, waiting to be found.
 
-## Learning Process
-As someone who is completely new to JavaScript, it was very pleasant to learn. The logic just clicks. Most things work exactly how you'd expect them to if you're coming from other languages. This intuitive flow is a huge advantage...though maybe too much of one. Without strict rules, JavaScript lets you get away with messy, dysfunctional spaghetti code. That might just be the opinion of someone that tends to write code with a few loose ends, but it is what it is.
+The other issue is the way that it is asked. There is no real context, no sample code that they tried it with, no explanation of where the error is being thrown from. The title does not say anything about the specific error, just that they are "experiencing trouble." This likely stops many who would know the answer from actually clicking on the thread. And even the ones who did referred this kind developer to StackOverflow's guide to asking questions.
 
-## Limitations and Scope
-Within its niche, JavaScript shines. For web development, it's a perfect fit. But it isn't and shouldn't be the only tool in a developer's knowledge base. You wouldn't use a hammer for everything, and you shouldn't use JavaScript for everything either. It was made for the front end, not the back end. JavaScript knows its role and sticks to it, which makes it a solid programming language. While other languages may be a bit better from a generalist's perspective, I actually value languages that are fine tuned to a specific usecase.
-
-## Athletic Software Engineering
-ICS 314, the class where I'm learning JavaScript, takes an "athletic software engineering" approach with daily JavaScript practice. Repetition cements syntax fundamentals no matter your skill level, so I appreciate the consistency. The daily exercises haven't gotten too intense yet as we build up our basics. But I know that there is potential for stress to build as the semester goes on. I'll be tracking my progress in reading code snippets and writing my own efficient, readable code. Mastering both skills will be vital if I want to become a better software engineer and programmer in general.
-
-## Conclusion
-So overall, JavaScript is a functional language that works within its scope. It doesn't try to be anything that it isn't, which is something that I value in both a friend and a programming language. I am looking forward to learning more about JavaScript and taking it as far as I possibly can within the semester!
+## The Beautiful
+[This is an excellent way to ask the exact same question.](https://stackoverflow.com/questions/54598292/modulenotfounderror-when-trying-to-import-module-from-imported-package) The title is already a significant improvement. "'ModuleNotFoundError' when trying to import module from imported package." It says the exact error and the exact reason it had for happening. When you go into the post, there is an immediate sharing of the directory structure, and the file names and import code that is written within them.
