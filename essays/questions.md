@@ -3,10 +3,11 @@ layout: essay
 type: essay
 title: "AmIUgly: Question Edition"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-09-07
 published: true
 labels:
-  - Questions, Opinion
+  - Questions
+  - Opinion
 ---
 
 ## Introduction
