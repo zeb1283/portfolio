@@ -84,7 +84,3 @@ Prompt engineering and design must also be considered when educating with and an
 ## Conclusion
 
 In conclusion, artifical intelligence in its current form is a valuable tool that I have used many times in this course. I believe that having future experiences tailored towards prompt engineering would be very valuable for preparing students for the future of software engineering. Generative AI is never going to go away, and introducing students to best practices would be a great step towards improving their competency.
-
-## Conclusion
-
-While I still may not be the biggest fan of the concept of coding standards as a whole, I must say that using ESLint has been a really pleasant surprise. It is useful and relatively painless. While it may end up being annoying once I begin to create larger projects, I still think that having it on is much more of a help than a detriment. Eventually, I hope to be at the level of engineer that can use ESLint and never even notice that it's on.
