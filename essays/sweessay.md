@@ -9,6 +9,9 @@ labels:
   - Personal, Interests
 ---
 ## Why go into Software Engineering?
+
+<img class="img-fluid" src="../img/swepic.jpeg" width="300" height="200">
+
 Why does anyone decide to go into software engineering? For some, I would imagine that it is for the money. The social media posts that discuss the possibility of massive salaries surely motivate a fair bit of people who study Computer Science. For others, maybe it's the work-life balance. The ability to work from home, in a comfortable environment, might be what checks the box for many.
 
 For me, I just simply love to program. It scratches the problem-solving itch that's been there for me since I was little. Being able to create functional programs that solve problems or just do cool things is what gets me going in this field. Of course, I can't really articulate that in an "interests" section of a resume, so I do have my more niche interests, but all in all I'd like to do anything in this field. For this reason, I'll be talking about the parts of the CS landscape that interest me the most, but that absolutely does not rule anything out in my future plans.
