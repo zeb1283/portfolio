@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/zeb1283.png",
     "email": "lakeyzeb@gmail.com",
-    "phone": "808-445-5193",
     "website": "https://zeb1283.github.io",
     "summary": "I am a third-year student studying for a B.S in Computer Science from the Department of Information and Computer Sciences at the University of Hawai'i at Manoa. I am projected to graduate in Spring 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -42,6 +41,18 @@
     }
   ],
   "work": [
+    {
+      "company": "UHM ICS Department",
+      "position": "Software Engineer for Cybersecurity Grant",
+      "website": "https://www.ics.hawaii.edu/",
+      "startDate": "2023-10-21",
+      "endDate": "2023-11-28",
+      "summary": "Applied VDO to categorize software vulnerabilities from the National Vulnerability Database",
+      "highlights": [
+        "Assisted in the development of a ML model that predicts outcomes of unclassified vulnerabilities",
+        "Completed over 1200 annotations of vulnerabilities for the model to learn from"
+      ]
+    },
     {
       "company": "Center for Language and Technology",
       "position": "Research Assistant/Prompt Designer",
@@ -97,12 +108,6 @@
       "date": "2021-Present",
       "awarder": "University of Hawaii - Manoa",
       "summary": "Distinction given to students at or above a 3.5 gpa on a semester-by-semester basis."
-    }
-  ],
-  "references": [
-    {
-      "name": "William Chapman, Interim Dean (Contact available upon request)",
-      "name": "Richard Medina, Assistant Faculty Specialist in Human-Computer Interaction (Contact available upon request)"
     }
   ]
 }
