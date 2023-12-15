@@ -4,7 +4,7 @@ type: essay
 title: "Framing The Worst of Front-End"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
-published: true
+published: false
 labels:
   - Front-End Development
   - Bootstrap

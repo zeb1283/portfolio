@@ -25,10 +25,12 @@ I was primarily responsible for working with the collections and input forms, su
 I also thought that my group worked well together and it was fun to be able to collaborate with one another. We were able to divide up different parts of the project and communicate when there were any conflicts between these parts. Overall, it was a very positive experience and I'm glad I got to take part in development.
 
 ## Links
-<ul>
-  <li>[Project Homepage](https://heluna-manoa.github.io)</li>
-  <li>[GitHub Organization](https://github.com/heluna-manoa)</li>
-  <li>[Milestone 1](https://github.com/orgs/heluna-manoa/projects/1)</li>
-  <li>[Milestone 2](https://github.com/orgs/heluna-manoa/projects/2)</li>
-  <li>[Milestone 3](https://github.com/orgs/heluna-manoa/projects/3)</li>
-</ul>
+[Project Homepage](https://heluna-manoa.github.io)
+
+[GitHub Organization](https://github.com/heluna-manoa)
+
+[Milestone 1](https://github.com/orgs/heluna-manoa/projects/1)
+
+[Milestone 2](https://github.com/orgs/heluna-manoa/projects/2)
+
+[Milestone 3](https://github.com/orgs/heluna-manoa/projects/3)
