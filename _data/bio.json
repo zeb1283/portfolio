@@ -42,6 +42,18 @@
   ],
   "work": [
     {
+      "company": "Center for Langauge and Technology",
+      "position": "Tech Assistant",
+      "website": "https://clt.manoa.hawaii.edu/",
+      "startDate": "2023-08-28",
+      "endDate": "Present",
+      "summary": "Continued the project and worked on assorted programming/IT tasks for the CLT",
+      "highlights": [
+        "Assisted faculty and staff with assorted projects around the CLT",
+        "Monitored computer labs and helped users with technical issues"
+      ]
+    },
+    {
       "company": "UHM ICS Department",
       "position": "Software Engineer for Cybersecurity Grant",
       "website": "https://www.ics.hawaii.edu/",
@@ -63,18 +75,6 @@
       "highlights": [
         "Created a full Python script that generated language-learning C-tests",
         "Designed a pipeline for a user to be able to retrieve a test with a click of a button"
-      ]
-    },
-    {
-      "company": "Center for Langauge and Technology",
-      "position": "Tech Assistant",
-      "website": "https://clt.manoa.hawaii.edu/",
-      "startDate": "2023-08-28",
-      "endDate": "Present",
-      "summary": "Continued the project and worked on assorted programming/IT tasks for the CLT",
-      "highlights": [
-        "Assisted faculty and staff with assorted projects around the CLT",
-        "Monitored computer labs and helped users with technical issues"
       ]
     },
     {
