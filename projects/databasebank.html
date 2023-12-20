@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Bank Database Emulation | Zeb Lakey | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/zeb1283.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Zeb Lakey | Professional Portfolio">
+    <meta property="og:url" content="https://zeb1283.github.io/projects/databasebank.html">
+    <meta property="og:title" content="Bank Database Emulation | Zeb Lakey | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/zeb1283.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Bank Database Emulation | Zeb Lakey | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Zeb Lakey</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Bank Database Emulation</h1>
+ <h2 id="overview">Overview</h2>
+<p>This project was completed in ICS 212, Program Structure. The user can add, find, remove, or delete records from the “database” that is stored on a .txt file. Both programs use a linked list to hold the records, which consist of an Account Number, Name, and Address. This is all inputted by the user via the terminal. All project files were developed on a Unix server using the VIM text editor, and compiled using g++/gcc terminal commands and flags. These instructions are stored within a Makefile. In the C++ version, there is one for a “release” version and one for a “debug” version, which prints the parameters and function name whenever something within the program is called.</p>
+
+<h2 id="lessons">Lessons</h2>
+<p>When programming both projects, I became painfully aware of how cautious you have to be when programming in certain languages. With the C project especially, it was important to clear the input buffer so I wouldn’t get errors with scanf(), and make sure that everything worked together perfectly to avoid the terrifying segfault. C++ was a better experience, as I was mostly able to adapt a lot of the code over, but getting a handle on classes, hierarchy, and passing by reference took a little bit of extra time.</p>
+
+<h2 id="code-snippet">Code Snippet</h2>
+<p>Below is the class definition for the linked list that makes up the database in C++.</p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include</span> <span class="cpf">"record.h"</span><span class="cp">
+#ifndef LLIST_H
+#define LLIST_H
+</span>
+<span class="k">class</span> <span class="nc">llist</span>
+<span class="p">{</span>
+    <span class="nl">private:</span>
+        <span class="n">record</span> <span class="o">*</span>    <span class="n">start</span><span class="p">;</span>
+        <span class="kt">char</span>        <span class="n">filename</span><span class="p">[</span><span class="mi">20</span><span class="p">];</span>
+        <span class="kt">int</span>         <span class="n">readfile</span><span class="p">();</span>
+        <span class="kt">int</span>         <span class="n">writefile</span><span class="p">();</span>
+        <span class="kt">void</span>        <span class="n">cleanup</span><span class="p">();</span>
+
+    <span class="nl">public:</span>
+        <span class="n">llist</span><span class="p">();</span>
+        <span class="n">llist</span><span class="p">(</span><span class="kt">char</span><span class="p">[]);</span>
+        <span class="o">~</span><span class="n">llist</span><span class="p">();</span>
+        <span class="kt">void</span> <span class="n">addRecord</span><span class="p">(</span><span class="kt">int</span><span class="p">,</span> <span class="kt">char</span> <span class="p">[</span> <span class="p">],</span><span class="kt">char</span> <span class="p">[</span> <span class="p">]);</span>
+        <span class="kt">int</span> <span class="n">findRecord</span><span class="p">(</span><span class="kt">int</span><span class="p">);</span>
+        <span class="kt">void</span> <span class="n">printAllRecords</span><span class="p">();</span>
+        <span class="kt">int</span> <span class="n">deleteRecord</span><span class="p">(</span><span class="kt">int</span><span class="p">);</span>
+<span class="p">};</span>
+<span class="cp">#endif
+</span></code></pre></div></div>
+<h2 id="repository-access">Repository Access</h2>
+<p>The full project is stored on the <a href="https://github.com/zeb1283/bankdatabase">bank database repo</a>.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
