@@ -12,7 +12,7 @@ labels:
 
 ## Introduction
 
-When I originally signed up for ICS 414, I was very excited. I knew that by that point, I would have over a years experience in web application development, with a few months of that being in a professional environment. I was also excited to be able to work with peers again, as I had a really great experience in ICS 314 with friends that I still am close with to this day. However, once I was a couple weeks into the semester, all of my excitement had faded. Nothing was what I expected, and I quickly lost any and all interest in putting in more effort than was necessary
+When I originally signed up for ICS 414, I was very excited. I knew that by that point, I would have over a years experience in web application development, with a few months of that being in a professional environment. I was also excited to be able to work with peers again, as I had a really great experience in ICS 314 with friends that I still am close with to this day. However, once I was a couple weeks into the semester, all of my excitement had faded. Nothing was what I expected, and I quickly lost any and all interest in putting in more effort than was necessary.
 
 ## August and September
 <img class="img-fluid" src="../img/github.jpg" width="500" height="500">
