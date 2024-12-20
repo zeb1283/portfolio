@@ -34,7 +34,7 @@ I decided to choose the latter.
 
 When customer meetings came up, I had to do the presentations, as my group members either didn't come to the meetings or were unable to access their computers during the time period. I pushed huge updates prior to these meetings that feigned productivity for the entire group rather than just myself.
 
-By November, I was completely burnt out of the project. I was done. 3 members of the group had never committed to the repository at this point, and I knew that it was over.
+By November, I was completely burnt out of the project. I was done. 3 members of the group had never committed to the repository at this point, and I knew that it was pretty much over.
 
 ## Burnout
 
