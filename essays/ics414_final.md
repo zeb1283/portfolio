@@ -16,6 +16,7 @@ When I originally signed up for ICS 414, I was very excited. I knew that by that
 
 ## August and September
 <img class="img-fluid" src="../img/github.jpg" width="500" height="500">
+
 The first day of class began without much of a hitch. I met my teammates, who all seemed pretty nice, and we set up a discord to communicate and the beginnings of our GitHub organization. However, it didn't take long for things to begin falling apart. One of our members never joined the discord. He had also been completely non-communicative over text. Upon checking the laulima roster, I found that he had dropped the class without ever letting anyone know that he was.
 
 When I broke the news to the group, we were all frustrated. Not even two weeks into the semester, we were already down a member. Nevertheless, we decided to just keep on pushing forward. Initially, I brought up the idea of potentially using Next.js instead of Meteor. I thought that this would be beneficial for a few reasons. For one, we had already done a project using Meteor. On our resumes, having 2 Meteor projects when it is essentially a dead framework would be pretty redundant. It would have also been a great learning experience as it is likely the most popular web framework and we could get experience deploying on Vercel.
@@ -32,7 +33,7 @@ It was here that I came to a crossroads. Do I put in an exorbitant amount of eff
 
 I decided to choose the latter.
 
-When customer meetings came up, I had to do the presentations, as my group members either didn't come to the meetings or were unable to access their computers during the time period. I pushed huge updates prior to these meetings that feigned productivity for the entire group rather than just myself.
+When the customer meetings came up, I had to do the presentations. My group members either didn't come to the meetings or were unable to access their computers during the time period. I pushed huge updates prior to these meetings that feigned productivity for the entire group rather than just myself.
 
 By November, I was completely burnt out of the project. I was done. 3 members of the group had never committed to the repository at this point, and I knew that it was pretty much over.
 
@@ -51,6 +52,21 @@ In the last month of the project, I decided to pour a bit more time into it. I r
 Spoiler: nobody pushed anything significant. It was a fitting end to a disappointing semester. By the end of class time, 2 people had still never committed to our main repository over the course of the entire semester. Several commits were changing the text from uppercase to lowercase or modifying comments. 
 
 However, I found a lot of peace in knowing that it was not my issue anymore. I have a job to look forward to with capable team members, and am ready to just get the semester over with.
+
+## The Project Itself
+
+As far as the project as a concept, I thought that it was an interesting idea. The projection metrics were fun to think about, and the problems the client asked us to tacle were definitely real. However, I do think that the deliverables were very open-ended. It didn't seem like they had a good idea of what they even wanted. Again, this is good practice for the actual field, but it was a bit frustrating in the very beginning of the project. I was unable to attend the final customer meeting as I was on a work flight to Los Angeles, but I'd imagine that there would be at least one group that was able to produce something that fulfilled their expectations.
+
+## My Own Performance
+
+Throughout this essay, I've been fairly critical of those around me. However, I also hope that I have shown that I know full well that I did not perform to the best of my ability. I have a complete understanding of the fact that if I did decide to pour all of my time and effort into this project, I could have produced something that I could have been proud of.
+
+I am not proud of the final product, and part of that responsibility does fall on me. However, I will say that I definitely put in my fair share of effort that would have been more than enough if a group of 8 were all equally participating and pushing changes through.
+
+## Suggestions
+
+1. I would love if people were able to create their own groups. I understand why this isn't the case, but I selfishly wish that it could be possible.
+2. Have some students as Q/A people, or just floaters that can be in the position to fill in for a group. Someone like that in my group's situation could have really helped out.
 
 ## Conclusion
 
